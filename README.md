@@ -1,7 +1,12 @@
-## Olá, meu nome é Uanderson.
+<div>
+  <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdna.artstation.com/p/assets/images/images/024/538/892/large/pixel-jeff-version2.jpg?1582740652" width="1980" height="500">
+<div>
 
-- Designer em migração para FrontEnd.
-- Panderista nas horas vagas.
+## Olá, meu nome é Uanderson.
+  
+  
+- 🎨Designer em migração para FrontEnd.
+- 🥁Panderista nas horas vagas.
 
 <div align="center">
   <a href="https://github.com/uandersoncosta">
@@ -13,6 +18,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">	
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
   
   ##
