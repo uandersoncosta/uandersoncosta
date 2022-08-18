@@ -7,20 +7,10 @@
   
 
 - 🔭 Desenvolvedor Jr  
-  
-
 - 🌱 Atualmente estudando React.js  
-  
-
-- 🤝 Futuro desenvolvedor Fullstack Jr.  
-  
-
-- 🎨 Designer há 5 anos  
-  
-
-- ⚡ Fun fact: sou viciado em música e escuto a mesma várias vezes.  
-  
-
+- 🤝 Futuro desenvolvedor Fullstack Jr. 
+- 🎨 Designer há 5 anos
+- ⚡ Fun fact: sou viciado em música e escuto a mesma várias vezes.
 - 💬 Como falar comigo: Portfólio e [LinkedIn](https://www.linkedin.com/in/uandersoncosta/)  
   
 
