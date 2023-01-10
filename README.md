@@ -6,7 +6,7 @@
 ### <div align="center">Olá 👋, Me chamo Uanderson costa.</div>  
   
 
-- 💻 Tenho interesse em viajar, games, languages e aprender(principalmente tudo relacionado a tecnologia.)
+- 💻 Tenho interesse em viajar, games, linguagens e aprender(principalmente tudo relacionado a tecnologia.)
 - 📚 Atualmente estudando front-end(reactJS) e cursando Analise e Desenvolvimento de Sistemas.
 - 😅 Fun fact: sou viciado em música e escuto a mesma várias vezes.
 - 💬 Como falar comigo: Portfólio e [LinkedIn](https://www.linkedin.com/in/uandersoncosta/)
